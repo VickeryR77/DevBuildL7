@@ -1,0 +1,13 @@
+C:\Users\RVICKERY\source\repos\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.exe
+C:\Users\RVICKERY\source\repos\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.deps.json
+C:\Users\RVICKERY\source\repos\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.runtimeconfig.json
+C:\Users\RVICKERY\source\repos\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.runtimeconfig.dev.json
+C:\Users\RVICKERY\source\repos\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.dll
+C:\Users\RVICKERY\source\repos\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.pdb
+C:\Users\RVICKERY\source\repos\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.csprojAssemblyReference.cache
+C:\Users\RVICKERY\source\repos\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.AssemblyInfoInputs.cache
+C:\Users\RVICKERY\source\repos\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.AssemblyInfo.cs
+C:\Users\RVICKERY\source\repos\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\RVICKERY\source\repos\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.dll
+C:\Users\RVICKERY\source\repos\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.pdb
+C:\Users\RVICKERY\source\repos\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.genruntimeconfig.cache
