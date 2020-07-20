@@ -35,6 +35,9 @@ namespace DiceRolling
 
         public static void GetGamePlay(int sides, int num1, int num2, int total, int rolls) 
         {
+            bool running = true;
+            while (running) {
+            rolls++;
             Console.Clear();
             Console.WriteLine($"Roll #{rolls}");
             Console.WriteLine("");
@@ -56,7 +59,8 @@ namespace DiceRolling
                 string lowerEntry = entry.ToLower();
                 if (lowerEntry == "y")
                 {
-                    return;
+                    total = GetDiceRoll(sides, out num1, out num2);
+                    break;
                 }
                 else if (lowerEntry == "n")
                 {
@@ -65,6 +69,7 @@ namespace DiceRolling
                 else
                 {
                     continue;
+                }
                 }
             }            
         }
@@ -100,7 +105,7 @@ namespace DiceRolling
             bool runningProgram = true;
             while (runningProgram)
             {
-                int rolls = 1;
+                int rolls = 0;
                 int sides = GetValidNumbers();
                 bool runningGame = true;
                 while (runningGame)
